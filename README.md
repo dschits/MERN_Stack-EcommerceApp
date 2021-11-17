@@ -35,7 +35,7 @@ To clone & run the project:
 
 2. Open the installed git terminal in a folder
 
-3. Use the command- git clone https://github.com/dschits/MERN-Stack__EcommerceApp.git
+3. Use the command- git clone https://github.com/dschits/MERN_Stack-EcommerceApp.git
 
 4. Make sure that you install Node & suitable IDE in your computer
 
